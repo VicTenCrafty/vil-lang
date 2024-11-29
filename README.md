@@ -13,9 +13,9 @@ Vil is a **novice** level programming language, designed to be **easy-to-learn**
 
 **Still not convinced? Here is an example of code that shows you how easy Vil is to learn, how fast and how powerful it is!**
 
-`import sys
+`import systag`
 
-tag UserInput = input("What do you wanna say? ")
+`UserInput = input("What do you wanna say? ")
 sys.output(UserInput)`
 
 Vil is easy to set up with our pre-built installer, adding the necessary binaries to path and setting everthing up in minutes!
