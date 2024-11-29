@@ -11,7 +11,7 @@ Vil is a **novice** level programming language, designed to be **easy-to-learn**
 
 ## Vil code demonstration
 
-*Still not convinced? Here is an example of code that shows you how easy Vil is to learn, how fast and how powerful it is!
+**Still not convinced? Here is an example of code that shows you how easy Vil is to learn, how fast and how powerful it is!**
 
 `import sys
 
@@ -22,4 +22,4 @@ Vil is easy to set up with our pre-built installer, adding the necessary binarie
 
 To get started, install Vil with the Add to PATH option (requires administrator permissions) and create a file ending in .vil, code, and use the `vil <file_name>` command to run it!
 
-Happy coding in Vil!
+**Happy coding in Vil!**
