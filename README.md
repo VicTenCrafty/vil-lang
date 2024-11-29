@@ -1,3 +1,5 @@
+## ATENTION! You are currently viewing the experimental branch, which is where Vil's main source of new code is tested at and comes from. We strongly recommend you download & use releases from the main branch. You have been warned.
+
 # Vil - your easy go-to powerful programming language
 
 Vil is a **novice** level programming language, designed to be **easy-to-learn**, allowing you to prototype and make complex programs in minutes!
