@@ -1,0 +1,5 @@
+numpy
+ruff
+setuptools
+pyinstaller
+requests
